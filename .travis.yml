@@ -1,4 +1,4 @@
-test: focul
+dist: focal
 language: shell
 script: echo "testing"
 install: skip
