@@ -1,0 +1,4 @@
+test: focul
+language: shell
+script: echo "testing"
+install: skip
